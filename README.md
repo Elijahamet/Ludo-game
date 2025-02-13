@@ -1,3 +1,3 @@
 # Ludo-game
 
-An exciting lugo game 
+An exciting ludo game 
